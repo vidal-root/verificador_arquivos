@@ -19,12 +19,12 @@ Ao realizar alguma alteração no código, é preciso criar um novo executável 
 
 ## **🛠 Informações Adicionais**
 O projeto não contém o executavel, porém vou deixar o link de uma versão abaixo. Para gerar a sua versão como já informado acima, digite o comando py.exe setup.py build
-Link da versão que utilizo: 
-Video sobre o funcionamento: https://drive.google.com/file/d/1v1JzxL2x67dVenPJIL-GcBmqby7Ses3t/view?usp=sharing
+<br>Link da versão que utilizo: https://drive.google.com/file/d/14eWSeheWfMm5VbCrjgm5I2YtKy1A6qts/view?usp=sharing
+<br>Video sobre o funcionamento: https://drive.google.com/file/d/1v1JzxL2x67dVenPJIL-GcBmqby7Ses3t/view?usp=sharing
 
 ## **🛠 Origem idéia**
 Trabalho em uma empresa onde desenvolvemos em um server de homologação, assim que terminamos de programar ou alterar uma funcionalidade, pegamos o caminho do arquivo e cadastramos em um servidor que realiza o deploy utilizando o caminho do arquivo, ex: C:\xampp\htdocs\desenv3\exemplo\public_html\exemplo\exemplo\exemplo.ctrl.php.
-Logo quando tinhamos que desenvolver/alterar rotinas maiores, era preciso guardar o nome dos arquivos que alteravamos além de se aumentar  a possibilidade de esquecer um arquivo importante (um módulo novo contem de 30 - 150 arquivos).
+<br>Logo quando tinhamos que desenvolver/alterar rotinas maiores, era preciso guardar o nome dos arquivos que alteravamos além de se aumentar  a possibilidade de esquecer um arquivo importante (um módulo novo contem de 30 - 150 arquivos).
 O programa foi desenvolvido para auxiliar esse processo.
 
 ## **🛠 Autor**
